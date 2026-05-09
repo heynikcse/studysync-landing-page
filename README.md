@@ -52,14 +52,36 @@ This project was created as part of my frontend development practice.
 ## 📁 Folder Structure
 
 ```text
-StudySync Project/
+StudySyn Project/
+│
 ├── images/
 │   ├── avatar1.png
 │   ├── avatar2.png
 │   ├── avatar3.png
+│   ├── img.png
+│   ├── usgs-hoS3dzgpHzw-unsplash.jpg
+│   ├── Affordability.svg
+│   ├── Analytics.svg
 │   ├── Google.svg
+│   ├── Hamburger.svg
+│   ├── IndustryPartner.svg
+│   ├── InnovativeTech.svg
 │   ├── Microsoft.svg
-│   └── ...other images
+│   ├── PersonalizedLearn.svg
+│   ├── StudySyn.svg
+│   ├── VectorEdu.svg
+│   ├── github.svg
+│   ├── instagram.svg
+│   ├── linkedin-copy.svg
+│   └── twitter.svg
+│
+├── screenshots/
+│   ├── nav-hero.png
+│   ├── company.png
+│   ├── feature.png
+│   ├── testimonial.png
+│   └── newsletter.png
+│
 ├── index.html
 ├── style.css
 └── README.md
