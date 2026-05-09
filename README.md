@@ -49,6 +49,9 @@ This project was created as part of my frontend development practice.
 ### Newsletter Section
 ![Newsletter](screenshots/newsletter.png)
 
+### Footer Section
+![Footer](screenshots/footer.png)
+
 ## 📁 Folder Structure
 
 ```text
@@ -80,7 +83,8 @@ StudySyn Project/
 │   ├── company.png
 │   ├── feature.png
 │   ├── testimonial.png
-│   └── newsletter.png
+│   ├── newsletter.png
+│   └── footer.png
 │
 ├── index.html
 ├── style.css
