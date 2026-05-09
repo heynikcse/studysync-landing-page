@@ -32,6 +32,23 @@ This project was created as part of my frontend development practice.
 * **HTML5**
 * **CSS3** (Flexbox, Grid, Media Queries)
 
+## 📸 Screenshots
+
+### Navigation & Hero Section
+![Navbar and Hero](screenshots/nav-hero.png)
+
+### Trusted Companies Section
+![Trusted Companies](screenshots/company.png)
+
+### Features Section
+![Features](screenshots/feature.png)
+
+### Testimonials Section
+![Testimonials](screenshots/testimonial.png)
+
+### Newsletter Section
+![Newsletter](screenshots/newsletter.png)
+
 ## 📁 Folder Structure
 
 ```text
