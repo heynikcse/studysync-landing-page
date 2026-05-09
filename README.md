@@ -1,42 +1,41 @@
-StudySync Landing Page
+# StudySync Landing Page
 
-A responsive landing page built using HTML5 and CSS3.
+A responsive landing page built using **HTML5** and **CSS3**.
 
-📌 Project Overview
+## 📌 Project Overview
 
-StudySync is a modern frontend landing page project focused on practicing:
+StudySync is a modern frontend landing page project focused on practicing core web design principles, including:
 
-Responsive Web Design
-CSS Flexbox
-CSS Grid
-Media Queries
-Card Layouts
-Hero Sections
-Testimonials UI
-Newsletter Subscription Section
+* **Responsive Web Design**
+* **CSS Flexbox & CSS Grid**
+* **Media Queries**
+* **Card Layouts**
+* **Hero Sections**
+* **Testimonials UI**
+* **Newsletter Subscription Section**
 
-This project was created as part of frontend development practice.
+This project was created as part of my frontend development practice.
 
-🚀 Features
-Responsive Navigation Bar
-Hero Section with CTA Buttons
-Trusted Companies Section
-Feature Cards Section
-Testimonials Section
-Newsletter Subscription UI
-Hover Effects
-Responsive Layout using Media Queries
+## 🚀 Features
 
-🛠️ Technologies Used
-HTML5
-CSS3
-Flexbox
-CSS Grid
-Media Queries
+* **Responsive Navigation Bar**
+* **Hero Section** with CTA (Call-to-Action) Buttons
+* **Trusted Companies** Section
+* **Feature Cards** Section
+* **Testimonials** Section
+* **Newsletter Subscription** UI
+* **Hover Effects** for interactive elements
+* **Fully Responsive Layout** using Media Queries
 
-📂 Folder Structure
-StudySyn Project/
-│
+## 🛠️ Technologies Used
+
+* **HTML5**
+* **CSS3** (Flexbox, Grid, Media Queries)
+
+## 📁 Folder Structure
+
+```text
+StudySync Project/
 ├── images/
 │   ├── avatar1.png
 │   ├── avatar2.png
@@ -44,12 +43,15 @@ StudySyn Project/
 │   ├── Google.svg
 │   ├── Microsoft.svg
 │   └── ...other images
-│
 ├── index.html
 ├── style.css
 └── README.md
 
-👨‍💻 Author
+```
 
-Nikhil Raj
+## 👨‍💻 Author
+
+**Nikhil Raj**
+
+---
 
