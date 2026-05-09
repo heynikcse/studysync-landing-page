@@ -13,6 +13,7 @@ StudySync is a modern frontend landing page project focused on practicing core w
 * **Hero Sections**
 * **Testimonials UI**
 * **Newsletter Subscription Section**
+* **Responsive Footer Design**
 
 This project was created as part of my frontend development practice.
 
@@ -24,6 +25,7 @@ This project was created as part of my frontend development practice.
 * **Feature Cards** Section
 * **Testimonials** Section
 * **Newsletter Subscription** UI
+* **Footer Section with Social Links**
 * **Hover Effects** for interactive elements
 * **Fully Responsive Layout** using Media Queries
 
